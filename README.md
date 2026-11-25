@@ -8,6 +8,7 @@ In this project you will build such a pipeline.
 
 ## Project Submission
 W&B link: https://forge.coreweave.com/wandb/tram-ng12-western-governors-university/nyc_airbnb/overview
+
 GitHub: https://github.com/tram-GH12/Project-Build-an-ML-Pipeline-Starter.git
 
 ## Table of contents
